@@ -28,8 +28,10 @@ print (AGE)
 #But they cannot start with a number
 #This type of separation SNAKE_CASE
 
-#PI = 3.14159
-#RADIANS_TO_DEGREES = 180/PI
+PI = 3.14159
+RADIANS_TO_DEGREES = 180/PI
+
+print (RADIANS_TO_DEGREES)
 
 #We can change what values names refers to
 
